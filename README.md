@@ -39,6 +39,12 @@ REGULATION CHARACTERISTICS:
 ![WhatsApp Image 2025-11-19 at 12 06 08 AM](https://github.com/user-attachments/assets/c3fb83c9-cf81-47ea-b69a-878ea3d7d413)
 
 ![WhatsApp Image 2025-11-19 at 12 06 25 AM](https://github.com/user-attachments/assets/01e59fd3-d1e7-4b5e-b19c-f6c7c62a80c7)
+LINE REGULATION:
+<img width="1184" height="445" alt="image" src="https://github.com/user-attachments/assets/98bdd486-66ca-45b6-8984-0e73b4cbbdbe" />
+LOAD REGULATION:
+<img width="850" height="308" alt="image" src="https://github.com/user-attachments/assets/effbfa87-6c64-4275-85e4-241842da13bd" />
+
+
 
 
 
